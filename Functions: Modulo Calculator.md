@@ -25,3 +25,4 @@ print("modulo is", result(a, b))
 <img width="803" height="409" alt="image" src="https://github.com/user-attachments/assets/8a5c8716-e4c2-4052-9518-cfcfa4f48d07" />
 
 ## Result
+Thus , the program has been executed succesfully.
