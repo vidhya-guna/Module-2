@@ -30,6 +30,9 @@ else:
     print("The given number {} is not a palindrome".format(num))
 ```
 ## Output
-<img width="930" height="257" alt="image" src="https://github.com/user-attachments/assets/4452a25a-1999-438f-bcf2-46fc9a669144" />
+
+<img width="1049" height="194" alt="image" src="https://github.com/user-attachments/assets/32a2dc57-c644-4c72-8313-a1dab4ec30fd" />
+
 
 ## Result
+Thus , the program has been executed succesfully.
