@@ -18,3 +18,5 @@ print(y)
 <img width="461" height="389" alt="image" src="https://github.com/user-attachments/assets/f5aedb85-0345-4776-b079-6c21483c89a2" />
 
 ## Result
+Thus , the program has been executed succesfully.
+
