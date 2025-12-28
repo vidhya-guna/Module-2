@@ -44,7 +44,11 @@ for i in range(1, rows+1):
     print()
 ```
 ## Sample Output
-<img width="614" height="679" alt="image" src="https://github.com/user-attachments/assets/7a649edc-cfcc-4308-b595-41b99519f3ce" />
+
+<img width="909" height="533" alt="image" src="https://github.com/user-attachments/assets/10003753-43ab-422c-a7ed-64553541f3da" />
+
 
 ## Result
+
+Thus , the program has been executed succesfully.
 
