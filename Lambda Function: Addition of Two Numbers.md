@@ -18,6 +18,8 @@ f = lambda a, b,c: a+b+c
 print(f(i, j,z))
 ```
 ## Output
-<img width="628" height="488" alt="image" src="https://github.com/user-attachments/assets/218d54c2-fd9b-4d88-8584-9ebfad98a2f6" />
+<img width="732" height="239" alt="image" src="https://github.com/user-attachments/assets/10b6ebf8-fe50-4145-9390-ab1d6b63ee2d" />
+
 
 ## Result
+Thus , the program has been executed succesfully.
